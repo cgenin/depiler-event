@@ -1,0 +1,9 @@
+{
+  "dataSource": {
+    "url": "jdbc:postgresql://localhost:5432/test",
+    "driver_class": "org.postgresql.Driver",
+    "max_pool_size": 30,
+    "user": "test",
+    "password": "test"
+  }
+}
